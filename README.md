@@ -5,9 +5,8 @@ My first repository
 **Instead,**
 *I'll just say the series/movies that I wanted to watch sometime later.*
 > For the series, there are way too many of them that I can't really specify which one I want to watch.
-'For the movies...'
-1. I've heard of the FNAF and Mario movie.
-2. I wanted to watch them, but I kept forgetting to.
-- So I plan on watching at least 1 of them later.
-- If not, I'll do it someday.
- 
+'For the movies, there are 2 movies that I currently want to watch:'
+1. FNAF Movie
+2. The Super Mario Bros. Movie
+- The only reason why I wanted to watch them is because I was curious about it.
+- There was a lot of hype about it, so it made me want to watch it.
